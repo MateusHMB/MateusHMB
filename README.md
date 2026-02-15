@@ -26,16 +26,10 @@ Currently involved in undergraduate research projects at **UFV (Universidade Fed
 
 ## Security Projects
 
-### Reentrancy Attack Simulation
-* Development of vulnerable contracts and corresponding exploit scripts to analyze cross-function and cross-contract reentrancy patterns.
-* Implementation of mitigation strategies including Checks-Effects-Interactions and ReentrancyGuard patterns.
 
 ### Smart Contract Audit Practice
 * Public reports on mock audits conducted on decentralized protocols, focusing on business logic flaws and edge-case manipulation.
 
-### Static & Fuzz Testing Experiments
-* Integration of Slither for automated bug detection in development pipelines.
-* Implementation of invariant testing using Echidna to ensure protocol safety under adversarial conditions.
 
 ## Learning Goals
 * **Formal Verification:** Mastering mathematical proof of contract correctness using formal methods.
