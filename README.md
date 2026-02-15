@@ -2,7 +2,7 @@
   <img src="https://t3.ftcdn.net/jpg/09/67/14/90/360_F_967149092_RgXBnSboOaRSFJrxNF7VNr2tdFUxNGmC.jpg" width="100%" alt="Mateus Braz Banner" />
 </div>
 
-# Mateus Henrique Machado Braz
+# Mateus Braz
 **Computer Science student focused on Smart Contract Security and Blockchain Research.**
 
 ---
