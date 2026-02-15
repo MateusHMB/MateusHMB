@@ -37,7 +37,7 @@ Currently involved in undergraduate research projects at **UFV (Universidade Fed
 * **Security Research:** Contributing to the community through the documentation of novel vulnerability patterns and EIP analysis.
 
 ## Contact
-* **LinkedIn:** [https://www.linkedin.com/in/mateushmb/](https://www.linkedin.com/in/seu-usuario)
+* **LinkedIn:** [linkedin.com/in/mateushmb/](https://www.linkedin.com/in/mateushmb)
 * **Email:** [mateus.braz@ufv.br](mailto:mateus.braz@ufv.br)
 
 ---
