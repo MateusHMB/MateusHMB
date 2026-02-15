@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaUMGQZRyB4zfcul1AOh6_mvDawm8cdyARA&s" width="100%" alt="Mateus Braz Banner" />
+  <img src="https://t3.ftcdn.net/jpg/09/67/14/90/360_F_967149092_RgXBnSboOaRSFJrxNF7VNr2tdFUxNGmC.jpg" width="100%" alt="Mateus Braz Banner" />
 </div>
 
 # Mateus Henrique Machado Braz
