@@ -3,7 +3,7 @@
 </div>
 
 # Mateus Braz
-**Computer Science student focused on Smart Contract Security and Blockchain Research.**
+**Computer Science student and focused on Smart Contract Security and Blockchain Research.**
 
 ---
 
@@ -17,14 +17,11 @@ Currently involved in undergraduate research projects at **UFV (Universidade Fed
 * **Detection Methodologies:** Comparative analysis of manual auditing versus automated tools in the identification of critical exploits.
 * **Advanced Approaches:** Exploration of AI-assisted vulnerability scanning and the application of formal methods to smart contract verification.
 
-## Technical Skills
-
 
 ### Tools & Programming
 * **Languages:** Solidity, Python, C, C++, Verilog.
 * **Infrastructure:** Linux (Debian/WSL), Git, Makefile.
 
-## Security Projects
 
 
 ### Smart Contract Audit Practice
