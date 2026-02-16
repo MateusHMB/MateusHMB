@@ -3,7 +3,7 @@
 </div>
 
 # Mateus Braz
-**Computer Science student and focused on Smart Contract Security and Blockchain Research.**
+**Computer Science student and Researcher with focused on Smart Contract Security and Blockchain.**
 
 ---
 
